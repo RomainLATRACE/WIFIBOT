@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../ImageWifibot/Image360Robot.png</file>
+        <file>../ImageWifibot/ImageCamBas.png</file>
+        <file>../ImageWifibot/ImageCamDroite.png</file>
+        <file>../ImageWifibot/ImageCamGauche.png</file>
+        <file>../ImageWifibot/ImageCamHaut.png</file>
+        <file>../ImageWifibot/ImageFlecheBas.png</file>
+        <file>../ImageWifibot/ImageFlecheBasDroite.png</file>
+        <file>../ImageWifibot/ImageFlecheBasGauche.png</file>
+        <file>../ImageWifibot/ImageFlecheDroite.png</file>
+        <file>../ImageWifibot/ImageFlecheGauche.png</file>
+        <file>../ImageWifibot/ImageFlecheHaut.png</file>
+        <file>../ImageWifibot/ImageFlecheHautDroite.png</file>
+        <file>../ImageWifibot/ImageFlecheHautGauche.png</file>
+        <file>../ImageWifibot/ImageResetCam.png</file>
+    </qresource>
+</RCC>
